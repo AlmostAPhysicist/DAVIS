@@ -1,5 +1,5 @@
 This repository contains the complete code and files for the Robotics Project I created in 11th grade for the Robotics Workshop at my school.
-This Robot was capable of Understanding Low level commands and Talking back to the user via a Speaker.
+This Robot was capable of Understanding Low level commands, Talking back to the user via a Speaker while also being able to Move Based on user inputs through SPEECH and KEY-PRESS.
 
 The project is divided into two main parts:
 
