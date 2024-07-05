@@ -1,6 +1,3 @@
-
-Sure, here is a revised version:
-
 This repository contains the complete code and files for the Robotics Project I created in 11th grade for the Robotics Workshop at my school.
 This Robot was capable of Understanding Low level commands and Talking back to the user via a Speaker.
 
